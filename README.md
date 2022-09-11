@@ -23,7 +23,7 @@ The vast majority of riders are males.  There are fewer female riders.  The peak
 ![co_times_gender](https://user-images.githubusercontent.com/106561880/189543295-984a1a5b-dbfa-4e8e-ba9d-34446e7d8ce3.png)
 
 ### **Peak Usage by Hour**
-As can be seen, ridership peaks during morning and after work rush hours.  This is evidence that the majority of riders are using for the daily commutes.
+As can be seen, ridership peaks during morning and after work rush hours.  This is evidence that the majority of riders are using the service for the daily commutes.
 
 ![Aug_Peak_Hours](https://user-images.githubusercontent.com/106561880/189543313-2887d70d-000d-464c-b34b-b42dd4912672.png)
 
