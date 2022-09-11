@@ -3,7 +3,7 @@
 To demonstrate the feasibility of implementing a pay-per-ride bike share program, this analysis will show how this type of service has been successfully implemented in a large urban market and has been integrated into daily routines for many commuters.  All usage data from the CitiBike program in New York City has been rendered for this analysis.
 
 ## Methods
-''Note: Due to large file size, CSV file cannot be uploaded to GitHub.  Original CSV file can be downloaded'' [here](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip).
+*Note: Due to large file size, CSV file cannot be uploaded to GitHub.  Original CSV file can be downloaded* [here](https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip).
 
 All NYC CitiBike rider usage data from August 2019 has been included in a CSV file (referenced above).  Trip Durations were listed in number of seconds.  In order to convert Trip Durations to a Datetime format, the data type was first imported in Jupyter Notebook using Python and Pandas, converted to Datetime format, then exported into an updated CSV file.
 ![conversion](https://user-images.githubusercontent.com/106561880/189543266-fa08cf1d-0046-4bf1-99c5-c99801d82c11.png)
